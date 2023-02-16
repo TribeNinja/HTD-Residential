@@ -16,7 +16,10 @@ export default function Home() {
     <>
       <Head>
         <title>Happy To Deliver Package Valet</title>
-        <meta name="description" content="Happy To Deliver Package Valet" />
+        <meta
+          name="description"
+          content="Happy to Deliver is revolutionizing package management for multi-family residences. With our affordable and convenient service, residents can enjoy stress-free delivery straight to their doors."
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
