@@ -39,7 +39,7 @@ const VideoSection = () => {
             <div>
               <Link href="#contact">
                 <p className="md:text-lg button-yellow text-secondary">
-                  Request a Demo
+                  Contact Us Today
                 </p>
               </Link>
             </div>

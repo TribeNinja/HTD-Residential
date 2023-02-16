@@ -7,7 +7,7 @@ import Link from "next/link";
 const Hero = () => {
   return (
     <div className="bg-primary">
-      <div className="hidden md:flex absolute max-w-7xl w-full ml-[20rem] items-center py-3 px-6 md:px-12 z-10">
+      <div className="relative hidden md:flex mx-auto max-w-7xl w-full items-center py-3 px-6 md:px-12 z-20">
         <div>
           <Link href="/">
             <div className="w-64 h-20 relative">
@@ -38,7 +38,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 max-w-7xl mx-auto items-center ">
+      <div className="grid grid-cols-1 md:grid-cols-2 max-w-7xl mx-auto items-center -mt-28">
         <div className="px-6 md:px-12 space-y-6 md:space-y-10 lg:space-y-12">
           <h1 className="font-bold text-4xl md:text-5xl lg:text-6xl leading-snug md:leading-snug xl:leading-snug mt-24 md:mt-0">
             Happy to Deliver Package Valet

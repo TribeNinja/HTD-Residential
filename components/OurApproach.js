@@ -30,7 +30,7 @@ const OurApproach = () => {
           </div>
           <div>
             <Link href="#contact">
-              <p className="md:text-lg button-yellow">Request a Demo</p>
+              <p className="md:text-lg button-yellow">Contact Us Today</p>
             </Link>
           </div>
         </div>

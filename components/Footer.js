@@ -66,11 +66,37 @@ const Footer = () => {
             <p>Careers</p>
           </div>
           <div className="font-semibold space-y-2 md:space-y-3">
-            <p className="text-gray-400">Proudly serving communities:</p>
-            <p>The Residences at Park Place</p>
-            <p>The Heights at City Center</p>
-            <p>The Lofts at Riverfront</p>
-            <p>The Enclave at Forest Hills</p>
+            <p className="text-gray-400">Proudly serving properties:</p>
+
+            <p className="hover:underline">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.moderanewrochelle.com/"
+              >
+                Modera New Rochelle
+              </a>
+            </p>
+
+            <p className="hover:underline">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.alistermontclair.com/"
+              >
+                Alister Montclair
+              </a>
+            </p>
+
+            <p className="hover:underline">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.modera44.com/"
+              >
+                Modera44
+              </a>
+            </p>
           </div>
         </div>
         <div className="border-b border-b-gray-600 mt-12 mb-6" />
