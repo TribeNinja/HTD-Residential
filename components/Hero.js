@@ -38,7 +38,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 max-w-7xl mx-auto items-center -mt-28">
+      <div className="grid grid-cols-1 md:grid-cols-2 max-w-7xl mx-auto items-center md:-mt-28">
         <div className="px-6 md:px-12 space-y-6 md:space-y-10 lg:space-y-12">
           <h1 className="font-bold text-4xl md:text-5xl lg:text-6xl leading-snug md:leading-snug xl:leading-snug mt-24 md:mt-0">
             Happy to Deliver Package Valet
