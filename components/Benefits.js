@@ -24,7 +24,7 @@ const Benefits = () => {
       amazonHub: false,
     },
     {
-      benefit: "Touchless (no sanitization needed)",
+      benefit: "Handsfree (no sanitization needed)",
       htd: true,
       packageLockers: false,
       amazonHub: false,
@@ -91,7 +91,7 @@ const Benefits = () => {
                 Happy To Deliver Concierge Service
               </p>
               <p className="md:text-lg hidden md:block">
-                Delivers packages from your concierge to the residents front
+                Delivers packages from your concierge to the resident's front
                 door
               </p>
             </div>
@@ -101,7 +101,7 @@ const Benefits = () => {
             <div className="w-40 md:w-48 bg-gray-50 py-6 rounded-t-lg">
               <p className="text-xl md:text-2xl font-bold">Happy To Deliver</p>
               <p className="px-4 py-1 text-xs md:text-sm bg-secondary text-white rounded-full mt-4 md:mt-6 inline-block">
-                Best value
+                Best Value
               </p>
             </div>
             <p className="text-xl md:text-2xl font-bold w-32 md:w-40 pt-6">

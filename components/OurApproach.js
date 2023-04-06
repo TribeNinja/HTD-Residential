@@ -45,7 +45,7 @@ const OurApproach = () => {
               />
               <div className="absolute w-full h-full backdrop-brightness-50 rounded-xl" />
               <p className="absolute font-semibold md:text-2xl px-3 text-center text-white bottom-3 md:bottom-8">
-                Direct To Residents Doors
+                Direct To Resident's Doors
               </p>
             </div>
             <div className="relative w-full h-48 md:h-80">

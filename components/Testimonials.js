@@ -20,7 +20,7 @@ const Testimonials = () => {
     {
       name: "Jessica Wilson",
       testimonial:
-        "I love the peace of mind that comes with using Happy To Deliver. Knowing that my packages are securely managed and delivered directly to me is such a relief. It's a real game changer for package delivery!",
+        "I love the peace of mind that comes with using Happy To Deliver. Knowing that my packages are securely managed and delivered directly to me is such a relief. It's a real game-changer for package delivery!",
       designation: "Resident at 123 Condos",
     },
     {

@@ -35,7 +35,7 @@ const PackageProblems = () => {
               3 Million
             </p>
             <p className="text-xl md:text-2xl xl:text-3xl text-gray-500 font-semibold">
-              dollors lost per year
+              dollars lost per year
             </p>
           </div>
           <div className="space-y-6 md:space-y-7 xl:space-y-8 md:ml-20">
@@ -46,7 +46,7 @@ const PackageProblems = () => {
               <p>
                 68% of building staff report spending between one and four hours
                 per week simply keeping up with resident deliveries. <br />{" "}
-                <br /> This This ineffective approach to packages isn't just a
+                <br /> This ineffective approach to packages isn't just a
                 logistical headache: it's also impacting buildings' bottom
                 lines. In 2015 Houston-based Camden Property Trust estimated
                 that they lost 10 minutes of productivity for each package
@@ -95,9 +95,9 @@ const PackageProblems = () => {
                 As multifamily owners and operators struggle to keep up with the
                 steadily climbing number of packages, they have a handful of
                 available solutions to attempt to address the problem: lockers,
-                package rooms, off-site package management, and lobby and Office
+                package rooms, off-site package management, and lobby and office
                 storage.
-                <br /> <br /> As a resut, package ockers present an added cost
+                <br /> <br /> As a result, package lockers present an added cost
                 challenge for buildings—without the added benefit of a
                 comprehensive solution that saves money elsewhere and delivers
                 an improved resident experience.
@@ -118,7 +118,7 @@ const PackageProblems = () => {
               +$7,000
             </p>
             <p className="text-xl md:text-2xl xl:text-3xl text-gray-500 font-semibold">
-              Annually for a 100 unit building in monthly service and support
+              Annually for a 100-unit building in monthly service and support
               fees.
             </p>
           </div>
@@ -158,9 +158,9 @@ const PackageProblems = () => {
                 roughly 120 packages per day in a roughly eight-hour shift—which
                 equates to one package delivery every four minutes. Improving
                 the package management process is important for resident
-                satisfaction and building's bottom line, as unhappy residents
-                are likely to move out, leading to increased turnover and vacant
-                units, which can cost $3,250 per month.
+                satisfaction and the building's bottom line, as unhappy
+                residents are likely to move out, leading to increased turnover
+                and vacant units, which can cost $3,250 per month.
               </p>
             </div>
             {/* <p className="text-lg button-yellow text-secondary">Read more</p> */}
@@ -202,8 +202,8 @@ const PackageProblems = () => {
                 <br /> <br /> From 2017 to 2019 alone, global growth in
                 eCommerce sales outperformed brick-and-mortar sales by more than
                 tenfold. By 2023, online sales are expected to account for 22%
-                Of all total retail sales, up from 12% in 2017 —nearly doubling
-                the number Of packages in just five years.
+                of all total retail sales, up from 12% in 2017 —nearly doubling
+                the number of packages in just five years.
               </p>
             </div>
             {/* <p className="text-lg button-yellow text-secondary">Read more</p> */}
@@ -218,7 +218,7 @@ const PackageProblems = () => {
               </div>
             </div>
             <p className="text-lg md:text-xl xl:text-2xl font-sans text-gray-500 font-semibold mt-5 md:mt-8 md:px-10">
-              By 2023 online sales will account for 22% Of all retail up from
+              By 2023 online sales will account for 22% of all retail up from
               12% in 2017
             </p>
           </div>

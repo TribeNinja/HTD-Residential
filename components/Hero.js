@@ -46,7 +46,7 @@ const Hero = () => {
           <p className=" md:text-xl md:pr-10">
             Pioneering the first on-site delivery management service that
             eliminates all the stress of package management and brings packages
-            from your mail room straight to your residents homes at a fraction
+            from your mail room straight to your resident's homes at a fraction
             of the price and a marketable amenity.
           </p>
           <div>
